@@ -1,5 +1,8 @@
 _repo: Journals-of-Expeditions-of-Discovery-into-Central-Australia-and-Overland-from-Adelaide-to-King__5346
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eyre, Edward John
@@ -15,6 +18,8 @@ description: "Journals Of Expeditions Of Discovery Into Central Australia, And O
   \ during Eyre's explorations. Eyre prepared them for publication while en route\
   \ to London by ship in 1844. The following year, they were published in two volumes\
   \ by T & W Boone.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5346#Journals-of-Expeditions-of-Discovery-into-Central-Australia-and-Overland-from-Adelaide-to-King_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
